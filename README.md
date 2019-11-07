@@ -3,8 +3,8 @@ Please use any test framework to do the following task and push your code to a p
 
 **Question:**
 
-Navigate to [Spotify Web Player](https://open.spotify.com). Follow the page object model. Design and write automation tests to cover main functionalities of “Home” page.
-Then login from Home page (can login by clicking the “LOG IN” button or through the popup when you click the play button on the player).
+Follow the **page object model**. Navigate to [Spotify Web Player](https://open.spotify.com). 
+Login from Home page (can login by clicking the “LOG IN” button or through the popup when you click the play button on the player).
 Once you have logged in, design and write automation test for the music player.
 
 **Recommendations:**
