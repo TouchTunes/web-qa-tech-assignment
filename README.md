@@ -6,6 +6,8 @@ Please use any test framework to do the following task and push your code to a p
 Follow the **page object model**. Navigate to [Spotify Web Player](https://open.spotify.com). 
 Login from Home page (can login by clicking the “LOG IN” button or through the popup when you click the play button on the player).
 Once you have logged in, design and write automation test for the music player.
+*Note: "the music player" refer to the elements of the following screenshot*
+![spotify web player](/screenshots/music-player.jpg?raw=true "Optional Title")
 
 **Recommendations:**
 
