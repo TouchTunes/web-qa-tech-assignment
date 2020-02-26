@@ -16,3 +16,4 @@ In order to test the player you need to at least have an free trial account with
 Please give us instructions of where to put our own login information and detailed framework environment setup guidance if we want to run your code locally.
 Bonus question: inside the framework, you are welcome to do more than we asked in the above question to demonstrate you automation skills.
 
+**Please do not make a pull request. Give us a link to your repository instead.**
